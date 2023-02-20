@@ -13,8 +13,8 @@ This project demonstrates how to deploy our own ERC20 Token to Goerli Testnet us
 ## Quickstart
 
 ```
-git clone 
-cd 
+git clone https://github.com/sravantp03/ERC20-Token-KiKoCoin
+cd ERC20-Token-KiKoCoin
 yarn
 ```
 
